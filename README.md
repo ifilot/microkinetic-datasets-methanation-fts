@@ -4,9 +4,9 @@
 
 This repository contains three datasets for performing microkinetic simulations.
 
-* [CO2 methanation over dual-site Co(0001)xCo(1121) lattice](CO2_methanation_Cobalt.mkm) [1]
+* [CO2 methanation over a Co(1121) lattice](CO2_methanation_Cobalt.mkm) [1]
 * [CO2 methanation over a NiMn catalyst](CO2_methanation_MnNi.mkm) [2]
-* [Fischer-Tropsch synthesis over a Co(1121) lattice](FTS_Cobalt.mkm) [3]
+* [Fischer-Tropsch synthesis over a dual-site Co(0001)xCo(1121) lattice](FTS_Cobalt.mkm) [3]
 
 These datasets are based on the following publications
 
